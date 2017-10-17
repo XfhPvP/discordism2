@@ -126,4 +126,4 @@ purge();
 }
 });
 
-client.login("MzY5NTY5OTc2NTE3OTE4NzIw.DMehxA.7iV1N1YdaZtEDyP9oRnwGdo8rAs");
+client.login(process.env.BOT_TOKEN);
