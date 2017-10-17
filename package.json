@@ -1,0 +1,17 @@
+{
+  "name": "discordism",
+  "version": "1.0.0",
+  "description": "A multi-purpose bot.",
+  "main": "discordism.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.4",
+    "ytdl-core": "^0.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HitDelay",
+  "license": "ISC"
+}
